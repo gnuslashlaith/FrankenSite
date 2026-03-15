@@ -116,3 +116,12 @@ footer {
     font-family: 'Creepster', cursive;
     a {color: #ffacac;}
 }
+
+.mow {
+    color: #f4f1eb;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
